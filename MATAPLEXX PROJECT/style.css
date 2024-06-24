@@ -1,0 +1,609 @@
+body {
+    margin: 0;
+    font-family: HelveticaNeueCyr;
+}
+
+#main {
+    background-image: url("slike/cinema.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#geng {
+    display: flex;
+}
+
+#desno {
+    background-image: url(slike/cinemadesno.jpg);
+    background-size: cover;
+    width: 400px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.signup,
+.register,
+.zaborav {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgba(255, 160, 122, 1);
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width: 250px;
+
+}
+
+#input1,
+#input2,
+#input3,
+#input4,
+#input5 {
+    min-height: 25px;
+    min-width: 200px;
+    background-color: transparent;
+    color: white;
+}
+
+#par1,
+#par2,
+#par3,
+#par4,
+#par5 {
+    display: flex;
+    flex-direction: column;
+}
+
+#login {
+    min-width: 200px;
+    background-color: rgba(255, 255, 255, 0.2);
+    min-height: 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: not-allowed;
+}
+
+#zaboravljena {
+    font-size: 1rem;
+    color: rgb(161, 161, 161);
+    transition: color 0.1s ease-out 0s;
+    background-color: transparent;
+    border: none;
+    align-self: flex-end;
+}
+
+#zaboravljena:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.btnzab {
+    display: flex;
+    flex-direction: column;
+    width: 220px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+#header {
+    background-color: black;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    /* Dodato poravnanje */
+    padding: 0 20px;
+    /* Dodata polja da bi se logout dugme pomerilo od ivice */
+}
+
+#paragrafi {
+    color: rgb(161, 161, 161);
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+    visibility: hidden;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#paragrafi p{
+    background: linear-gradient(to right, white 0%, white 0%) bottom;
+    background-size: 0% 2px; /* Početna širina je nula */
+    background-repeat: no-repeat;
+    transition: background-size 0.3s ease;
+}
+
+#paragrafi p.active {
+    background-size: 100% 2px;
+}
+
+.active {
+    color: white;
+}
+
+#paragrafi p:hover {
+    color: white;
+    cursor: pointer;
+}
+
+#registruj {
+    align-self: flex-end;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+#registruj:hover {
+    cursor: pointer;
+}
+
+.btnreg {
+    display: flex;
+    flex-direction: column;
+    width: 220px;
+}
+
+#nijeusr {
+    display: flex;
+    margin-bottom: 0px;
+    color: red;
+}
+
+#nijepass,
+#nijdepass1 {
+    display: flex;
+    margin-bottom: 2px;
+    color: red;
+}
+
+#slika1 {
+    animation-name: animacija;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+}
+
+#slika2 {
+    visibility: hidden;
+}
+
+@keyframes animacija {
+    0% {
+        opacity: 100%;
+    }
+
+    50% {
+        opacity: 0%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+
+}
+
+#main2 {
+    background-image: url("slike/cinema.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    animation: ode 1s forwards;
+}
+
+@keyframes ode {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        display: none;
+    }
+}
+
+#input1,
+#input2,
+#input3,
+#input5 {
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#input1:focus,
+#input2:focus,
+#input3:focus,
+#input5:focus {
+    outline: none;
+}
+
+#logout {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    margin-left: auto;
+}
+
+#btnlog {
+    display: none;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+#logoutText {
+    margin-left: 5px;
+}
+
+#logoutText:hover {
+    cursor: pointer;
+}
+
+#btnlog:hover #logoutText {
+    animation: geng 1s ease both;
+}
+
+@keyframes geng {
+    100% {
+        margin-right: 50px;
+        color: white;
+    }
+}
+
+#strana {
+    display: none;
+}
+
+#leva {
+    background-image: url("slike/arrow-left.png");
+    background-size: cover;
+    width: 120px;
+    height: 70px;
+    border: none;
+    background-color: transparent;
+    animation: anima 2s ease both infinite;
+}
+
+#desna {
+    background-image: url("slike/arrow_right.png");
+    background-size: cover;
+    width: 120px;
+    height: 70px;
+    border: none;
+    background-color: transparent;
+    animation: anima 2s ease both infinite;
+}
+
+@keyframes anima {
+    0% {
+        scale: 1;
+    }
+
+    50% {
+        scale: 0.8;
+    }
+
+    100% {
+        scale: 1;
+    }
+}
+
+#leva:hover,
+#desna:hover {
+    cursor: pointer;
+}
+
+#slideshow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    gap: 10px;
+}
+
+#slideshow img {
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+#galerija {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    flex-direction: column;
+}
+
+#div5,
+#div6,
+#div7,
+#div8,
+#div9 {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+#galerija img {
+    object-fit: cover;
+    transition: 1s;
+}
+
+#galerija img:hover {
+    transform: scale(0.9);
+    cursor: pointer;
+}
+
+#galerija figcaption {
+    margin-top: 16px;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    max-width: 300px;
+}
+
+#slicica {
+    margin-bottom: 80px;
+    transition: 1s;
+}
+
+#slicica:hover {
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+#pretraga {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+#naklik {
+    display: none;
+    justify-content: center;
+    gap: 50px;
+}
+
+#slika2:hover {
+    cursor: pointer;
+}
+
+#strongid {
+    color: rgb(136, 136, 136);
+    font-size: 20px
+}
+
+#searchdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+#strana {
+    background-color: #52ACFF;
+    background-image: linear-gradient(270deg, #52ACFF 20%, #FFE32C 100%);
+}
+
+#naklik {
+    background-color: #FFDEE9;
+    background-image: linear-gradient(135deg, #FFDEE9 46%, #B5FFFC 100%);
+}
+
+#sale {
+    display: none;
+    background-color: #141413;
+    background-image: linear-gradient(158deg, #141413 8%, #FF2525 42%, #1a1717 98%);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#sala1,
+#sala2,
+#sala3,
+#sala4 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 700px;
+    width: 500px;
+}
+
+#searchdiv {
+    display: inline-block;
+    position: relative;
+
+}
+
+#searchdiv label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+#searchbar {
+    padding: 8px 12px;
+    border: 2px solid #ffdb58;
+    background-color: #428bca;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#searchbar:focus {
+    outline: none;
+    border-color: #ffa500;
+}
+
+#zanrovi {
+    display: inline-block;
+    position: relative;
+}
+
+#zanrovi label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+#zanroviselect {
+    padding: 8px 12px;
+    border: 2px solid #ffdb58;
+    background-color: #428bca;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#zanroviselect:focus {
+    outline: none;
+    border-color: #ffa500;
+}
+
+#zanroviselect option {
+    background-color: #428bca;
+    color: white;
+}
+
+#zanroviselect option:checked {
+    background-color: #ffcc00;
+    color: #333;
+}
+
+#salaselect {
+    padding: 8px 12px;
+    border: 2px solid #FF0000;
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#salaselect:focus {
+    outline: none;
+    border-color: #800000;
+}
+
+#salaselect option {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+#salaselect option:checked {
+    background-color: #FF0000;
+    color: #000000;
+}
+
+#rezervisi {
+    display: none;
+}
+
+#racun {
+    display: none;
+    background-color: #FF3CAC;
+background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+}
+
+#stavka {
+    transition: 0.5s;
+    background-color: #e6f7ff;
+}
+
+#stavka:hover {
+    cursor: pointer;
+    transition: 0.5s;
+    scale: 1.2;
+    background-color: #39a7da;
+    color: #000;
+}
+
+#divrezervacije{
+    transition: 1s;
+}
+
+#divrezervacije:hover{
+    transition: 1s;
+    scale: 1.1;
+    background-color: rgb(2, 83, 2);
+}
+
+#gengdiv{
+    background-color: rgba(255,255,255,0.6);
+}
+
+#btnkupid{
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #000;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+#btnkupid:hover {
+    background-color: #444;
+}
+
+#inputpromoid{
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #000;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 200px;
+    background: linear-gradient(145deg, #fff, #ddd);
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#inputpromoid:focus{
+    border-color: #fff;
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+@keyframes clickAnimation {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+.klasanaklik{
+    animation: clickAnimation 0.3s ease-in-out;
+}
+
+input[title] {
+    position: relative;
+}
+
+input[title]:hover{
+    opacity: 1;
+    visibility: visible;
+}
