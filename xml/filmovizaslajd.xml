@@ -1,0 +1,257 @@
+<Movies>
+
+<Movie>
+<Series_Title>Skyfall</Series_Title>
+<Scene>
+    <Scena> slikescene/skyfall1.avif </Scena>
+    <Scena> slikescene/skyfall2.webp </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>2</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:30 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:45 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 22:25 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In Istanbul, MI6 agents James Bond and Eve Moneypenny pursue mercenary Patrice, who has stolen a hard drive containing details of undercover agents. As Bond and Patrice fight atop a moving train, M orders Moneypenny to shoot Patrice, despite not having a clear shot; Moneypenny inadvertently hits Bond, who falls into a river </Plot>
+<Released_Year>2012</Released_Year>
+<Certificate>UA</Certificate>
+<Link> slikexml/skyfall.jpg </Link>
+<Video> https://www.youtube.com/embed/6kw1UVovByw?si=gis6v7NmCxgEayQD </Video>
+<Runtime>143</Runtime>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>81</Meta_score>
+<Director>Sam Mendes</Director>
+<Star1>Daniel Craig</Star1>
+<Star2>Javier Bardem</Star2>
+<Star3>Naomie Harris</Star3>
+<Star4>Judi Dench</Star4>
+<No_of_Votes>630614</No_of_Votes>
+<Gross>304360277</Gross>
+<Genres>
+<Genre>Action</Genre>
+<Genre>Adventure</Genre>
+<Genre>Thriller</Genre>
+</Genres>
+</Movie>
+
+<Movie>
+<Series_Title>Argo</Series_Title>
+<Scene>
+    <Scena> slikescene/argo1.jpg </Scena>
+    <Scena> slikescene/argo2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:15 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 18:35 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 20:25 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> On November 4, 1979, Iranian Islamists storm the United States Embassy in Tehran in retaliation for President Jimmy Carter giving the Shah, an absolute monarch who was supported by Western powers, asylum in the U.S. during the Iranian Revolution, for cancer treatment. Sixty-six of the embassy staff are taken as hostages, but six avoid capture and are sheltered in the home of Canadian Ambassador Ken Taylor. </Plot>
+<Released_Year>2012</Released_Year>
+<Certificate>A</Certificate>
+<Link> slikexml/argo.jpg </Link>
+<Video> https://www.youtube.com/embed/JW3WfSFgrVY?si=mOez-qYi9BB333fT </Video>
+<Runtime>120</Runtime>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>86</Meta_score>
+<Director>Ben Affleck</Director>
+<Star1>Ben Affleck</Star1>
+<Star2>Bryan Cranston</Star2>
+<Star3>John Goodman</Star3>
+<Star4>Alan Arkin</Star4>
+<No_of_Votes>572581</No_of_Votes>
+<Gross>136025503</Gross>
+<Genres>
+<Genre>Biography</Genre>
+<Genre>Drama</Genre>
+<Genre>Thriller</Genre>
+</Genres>
+</Movie>
+
+<Movie>
+<Series_Title>Harry Potter and the Deathly Hallows: Part 1</Series_Title>
+<Scene>
+    <Scena> slikescene/hari1.webp </Scena>
+    <Scena> slikescene/hari2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 23:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:35 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:00 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> At Malfoy Manor, Severus Snape meets with Lord Voldemort and his Death Eaters. He reports that the Order of the Phoenix will move Harry Potter, no longer under his mother's protective spell, to a safe location. Voldemort confiscates Lucius Malfoy's wand; his own is powerless against Harry because it and Harry's wand are "brothers" by sharing the same phoenix feather core. During the move, Harry survives Voldemort's attack, but Mad-Eye Moody and Hedwig are killed. </Plot>
+<Released_Year>2010</Released_Year>
+<Certificate>A</Certificate>
+<Runtime>146</Runtime>
+<Link> slikexml/hari.avif </Link>
+<Video> https://www.youtube.com/embed/MxqsmsA8y5k?si=oqzZqyK-kS6xI4VY </Video>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>65</Meta_score>
+<Director>David Yates</Director>
+<Star1>Daniel Radcliffe</Star1>
+<Star2>Emma Watson</Star2>
+<Star3>Rupert Grint</Star3>
+<Star4>Bill Nighy</Star4>
+<No_of_Votes>479120</No_of_Votes>
+<Gross>295983305</Gross>
+<Genres>
+<Genre>Adventure</Genre>
+<Genre>Family</Genre>
+<Genre>Fantasy</Genre>
+</Genres>
+</Movie>
+
+<Movie>
+<Series_Title>Zodiac</Series_Title>
+<Scene>
+    <Scena> slikescene/zodiac1.jpg </Scena>
+    <Scena> slikescene/zodiac2.png </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:00 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 13:45 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> On July 4, 1969, an unknown man attacks Darlene Ferrin and Mike Mageau with a handgun at a lovers' lane in Vallejo, California. Only Mike survives.One month later, the San Francisco Chronicle receives encrypted letters written by the killer calling himself "Zodiac", who threatens to kill a dozen people unless his coded message containing his identity is published. </Plot>
+<Released_Year>2007</Released_Year>
+<Certificate>UA</Certificate>
+<Link> slikexml/zodiac.avif </Link>
+<Video> https://www.youtube.com/embed/yNncHPl1UXg?si=J0DvpW7byoFGutw0 </Video>
+<Runtime>157</Runtime>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>78</Meta_score>
+<Director>David Fincher</Director>
+<Star1>Jake Gyllenhaal</Star1>
+<Star2>Robert Downey Jr.</Star2>
+<Star3>Mark Ruffalo</Star3>
+<Star4>Anthony Edwards</Star4>
+<No_of_Votes>466080</No_of_Votes>
+<Gross>33080084</Gross>
+<Genres>
+<Genre>Crime</Genre>
+<Genre>Drama</Genre>
+<Genre>Mystery</Genre>
+</Genres>
+</Movie>
+
+<Movie>
+<Series_Title>Flipped</Series_Title>
+<Scene>
+    <Scena> slikescene/flip1.jpg </Scena>
+    <Scena> slikescene/flip2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 16:25 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 19:20 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In 1957, 7-year-old Bryce Loski moves in next door to Julianna "Juli" Baker. Looking into each other's eyes, Juli knows it's love, but Bryce is unsettled and avoids her.Four years later Juli is still completely enamored, rarely leaving Bryce alone. Desperate to get rid of her, he pretends to date Sherry Stalls, a popular girl she dislikes. Bryce's best friend Garrett tells Sherry the truth, so she dumps him. Embarrassed, Bryce hopes that in upcoming seventh grade Juli will finally meet someone else. </Plot>
+<Released_Year>2010</Released_Year>
+<Certificate>PG</Certificate>
+<Runtime>90</Runtime>
+<Link> slikexml/flip.webp </Link>
+<Video> https://www.youtube.com/embed/q40GxY5n2Dg?si=CtruhS6tTGBMMWh7 </Video>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>45</Meta_score>
+<Director>Rob Reiner</Director>
+<Star1>Madeline Carroll</Star1>
+<Star2>Callan McAuliffe</Star2>
+<Star3>Rebecca De Mornay</Star3>
+<Star4>Anthony Edwards</Star4>
+<No_of_Votes>81446</No_of_Votes>
+<Gross>1752214</Gross>
+<Genres>
+<Genre>Comedy</Genre>
+<Genre>Drama</Genre>
+<Genre>Romance</Genre>
+</Genres>
+</Movie>
+
+</Movies>

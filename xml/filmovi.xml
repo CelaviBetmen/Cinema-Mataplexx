@@ -1,0 +1,1030 @@
+<Movies>
+<Movie>
+<Series_Title>The Hangover</Series_Title>
+<Scene>
+    <Scena>slikescene/thehangover1.avif</Scena>
+    <Scena>slikescene/thehangover2.webp</Scena>
+</Scene>
+<Plot> Two days before his wedding, bachelor Doug Billings travels to Las Vegas with his best friends Phil Wenneck, a sarcastic elementary school teacher, Stu Price, an apprehensive dentist, and Alan Garner, his odd future brother-in-law. Sid, the father of Doug's fiancée Tracy, loans Doug his vintage Mercedes-Benz W111 to drive to Vegas.</Plot>
+<Released_Year>2009</Released_Year>
+<Certificate>UA</Certificate>
+<Runtime>100</Runtime>
+<IMDB_Rating>6.3</IMDB_Rating>
+<Meta_score>73</Meta_score>
+<Director>Todd Phillips</Director>
+<Star1>Zach Galifianakis</Star1>
+<Star2>Bradley Cooper</Star2>
+<Star3>Justin Bartha</Star3>
+<Star4>Ed Helms</Star4>
+<No_of_Votes>717559</No_of_Votes>
+<Gross>277322503</Gross>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 18:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 20:25 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 14:20 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Genres>
+<Genre>Comedy</Genre>
+</Genres>
+<Link> slikexml/the hangover.jpg </Link>
+<Video> https://www.youtube.com/embed/tlize92ffnY?si=g8Vr5h2HIBmhrAPu </Video>
+</Movie>
+<Movie>
+<Series_Title>Skyfall</Series_Title>
+<Scene>
+    <Scena> slikescene/skyfall1.avif </Scena>
+    <Scena> slikescene/skyfall2.webp </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>2</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:30 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:45 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 22:25 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In Istanbul, MI6 agents James Bond and Eve Moneypenny pursue mercenary Patrice, who has stolen a hard drive containing details of undercover agents. As Bond and Patrice fight atop a moving train, M orders Moneypenny to shoot Patrice, despite not having a clear shot; Moneypenny inadvertently hits Bond, who falls into a river </Plot>
+<Released_Year>2012</Released_Year>
+<Certificate>UA</Certificate>
+<Link> slikexml/skyfall.jpg </Link>
+<Video> https://www.youtube.com/embed/6kw1UVovByw?si=gis6v7NmCxgEayQD </Video>
+<Runtime>143</Runtime>
+<IMDB_Rating>7.5</IMDB_Rating>
+<Meta_score>81</Meta_score>
+<Director>Sam Mendes</Director>
+<Star1>Daniel Craig</Star1>
+<Star2>Javier Bardem</Star2>
+<Star3>Naomie Harris</Star3>
+<Star4>Judi Dench</Star4>
+<No_of_Votes>630614</No_of_Votes>
+<Gross>304360277</Gross>
+<Genres>
+<Genre>Action</Genre>
+<Genre>Adventure</Genre>
+<Genre>Thriller</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Silver Linings Playbook</Series_Title>
+<Scene>
+    <Scena> slikescene/silver1.webp </Scena>
+    <Scena> slikescene/silver2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:30 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 2 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:25 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> After eight months' treatment in a mental health facility for bipolar disorder, Patrizio "Pat" Solitano Jr. is released into the care of his parents, Patrizio Sr. and Dolores, at his childhood home in Upper Darby Township, Pennsylvania. His primary focus is to reconcile with his ex-wife, Nikki. She has moved away and obtained a restraining order against him after Pat found her in the shower with another man and badly beat him. </Plot>
+<Released_Year>2012</Released_Year>
+<Certificate>A</Certificate>
+<Link> slikexml/silver lining.jpg </Link>
+<Video> https://www.youtube.com/embed/kVS-6k2tQAA?si=_LTwBP5Li8dikcXg </Video>
+<Runtime>122</Runtime>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>81</Meta_score>
+<Director>David O. Russell</Director>
+<Star1>Bradley Cooper</Star1>
+<Star2>Jennifer Lawrence</Star2>
+<Star3>Robert De Niro</Star3>
+<Star4>Jacki Weaver</Star4>
+<No_of_Votes>661871</No_of_Votes>
+<Gross>132092958</Gross>
+<Genres>
+<Genre>Comedy</Genre>
+<Genre>Drama</Genre>
+<Genre>Romance</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Argo</Series_Title>
+<Scene>
+    <Scena> slikescene/argo1.jpg </Scena>
+    <Scena> slikescene/argo2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:15 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 18:35 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 20:25 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> On November 4, 1979, Iranian Islamists storm the United States Embassy in Tehran in retaliation for President Jimmy Carter giving the Shah, an absolute monarch who was supported by Western powers, asylum in the U.S. during the Iranian Revolution, for cancer treatment. Sixty-six of the embassy staff are taken as hostages, but six avoid capture and are sheltered in the home of Canadian Ambassador Ken Taylor. </Plot>
+<Released_Year>2012</Released_Year>
+<Certificate>A</Certificate>
+<Link> slikexml/argo.jpg </Link>
+<Video> https://www.youtube.com/embed/JW3WfSFgrVY?si=mOez-qYi9BB333fT </Video>
+<Runtime>120</Runtime>
+<IMDB_Rating>8.6</IMDB_Rating>
+<Meta_score>86</Meta_score>
+<Director>Ben Affleck</Director>
+<Star1>Ben Affleck</Star1>
+<Star2>Bryan Cranston</Star2>
+<Star3>John Goodman</Star3>
+<Star4>Alan Arkin</Star4>
+<No_of_Votes>572581</No_of_Votes>
+<Gross>136025503</Gross>
+<Genres>
+<Genre>Biography</Genre>
+<Genre>Drama</Genre>
+<Genre>Thriller</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>(500) Days of Summer</Series_Title>
+<Scene>
+    <Scena> slikescene/sumer1.avif </Scena>
+    <Scena> slikescene/sumer2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>2</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 10:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 13:45 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 22:25 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> Tom Hansen is an aspiring architect who works as a writer at a greeting card company. He meets Summer Finn, a new employee. They discover that they have a similar taste in music. Later, at a karaoke night for their work, they talk about love. Tom believes in it, but Summer does not. Tom's friend and co-worker McKenzie drunkenly reveals that Tom likes Summer, which he asserts is only "as friends", something Summer agrees with. </Plot>
+<Released_Year>2009</Released_Year>
+<Certificate>UA</Certificate>
+<Link> slikexml/days.jpg </Link>
+<Video> https://www.youtube.com/embed/PsD0NpFSADM?si=nCcHg2AEDhmB5nXV </Video>
+<Runtime>95</Runtime>
+<IMDB_Rating>7.7</IMDB_Rating>
+<Meta_score>76</Meta_score>
+<Director>Marc Webb</Director>
+<Star1>Zooey Deschanel</Star1>
+<Star2>Joseph Gordon-Levitt</Star2>
+<Star3>Geoffrey Arend</Star3>
+<Star4>Chloë Grace Moretz</Star4>
+<No_of_Votes>472242</No_of_Votes>
+<Gross>32391374</Gross>
+<Genres>
+<Genre>Comedy</Genre>
+<Genre>Drama</Genre>
+<Genre>Romance</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Harry Potter and the Deathly Hallows: Part 1</Series_Title>
+<Scene>
+    <Scena> slikescene/hari1.webp </Scena>
+    <Scena> slikescene/hari2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 23:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:35 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:00 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> At Malfoy Manor, Severus Snape meets with Lord Voldemort and his Death Eaters. He reports that the Order of the Phoenix will move Harry Potter, no longer under his mother's protective spell, to a safe location. Voldemort confiscates Lucius Malfoy's wand; his own is powerless against Harry because it and Harry's wand are "brothers" by sharing the same phoenix feather core. During the move, Harry survives Voldemort's attack, but Mad-Eye Moody and Hedwig are killed. </Plot>
+<Released_Year>2010</Released_Year>
+<Certificate>A</Certificate>
+<Runtime>146</Runtime>
+<Link> slikexml/hari.avif </Link>
+<Video> https://www.youtube.com/embed/MxqsmsA8y5k?si=oqzZqyK-kS6xI4VY </Video>
+<IMDB_Rating>5.3</IMDB_Rating>
+<Meta_score>65</Meta_score>
+<Director>David Yates</Director>
+<Star1>Daniel Radcliffe</Star1>
+<Star2>Emma Watson</Star2>
+<Star3>Rupert Grint</Star3>
+<Star4>Bill Nighy</Star4>
+<No_of_Votes>479120</No_of_Votes>
+<Gross>295983305</Gross>
+<Genres>
+<Genre>Adventure</Genre>
+<Genre>Family</Genre>
+<Genre>Fantasy</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Gake no ue no Ponyo</Series_Title>
+<Scene>
+    <Scena> slikescene/gake1.jpg </Scena>
+    <Scena> slikescene/gake2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>2</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 20:40 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 21:45 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> Fujimoto, a wizard who was once a human, lives underwater with his daughter Brunhilde and her numerous smaller sisters, who are goldfish-like creatures with human faces. While she and her siblings are on an outing with their father in his four-flippered submarine, Brunhilde sneaks off and floats away on the back of a jellyfish. After an encounter with a fishing trawler, she becomes trapped in a glass jar and drifts to the shore of a small fishing town where she is rescued by a five-year-old boy named Sōsuke. </Plot>
+<Released_Year>2008</Released_Year>
+<Certificate>U</Certificate>
+<Runtime>101</Runtime>
+<Link> slikexml/gake.jpg </Link>
+<Video> https://www.youtube.com/embed/pfGDfDjAdSE?si=hj8FoNsj9TQ9HgGA </Video>
+<IMDB_Rating>5.2</IMDB_Rating>
+<Meta_score>86</Meta_score>
+<Director>Hayao Miyazaki</Director>
+<Star1>Cate Blanchett</Star1>
+<Star2>Matt Damon</Star2>
+<Star3>Liam Neeson</Star3>
+<Star4>Tomoko Yamaguchi</Star4>
+<No_of_Votes>125317</No_of_Votes>
+<Gross>15090400</Gross>
+<Genres>
+<Genre>Animation</Genre>
+<Genre>Adventure</Genre>
+<Genre>Comedy</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Frost/Nixon</Series_Title>
+<Scene>
+    <Scena> slikescene/frost1.jpg </Scena>
+    <Scena> slikescene/frost2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 22:10 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 2 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:35 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> After the Watergate scandal of 1972 and his subsequent resignation in 1974, 400 million people worldwide watch on television as United States President Richard Nixon departs the White House aboard Marine One. Among those watching is British journalist David Frost, who is recording a talk show in Australia at the time, and who decides to pursue an interview with the President. </Plot>
+<Released_Year>2008</Released_Year>
+<Certificate>R</Certificate>
+<Runtime>122</Runtime>
+<Link> slikexml/frost.jpg </Link>
+<Video> https://www.youtube.com/embed/O9S1RKNgdLw?si=NipXhtCl74drEnKi </Video>
+<IMDB_Rating>7.2</IMDB_Rating>
+<Meta_score>80</Meta_score>
+<Director>Ron Howard</Director>
+<Star1>Frank Langella</Star1>
+<Star2>Michael Sheen</Star2>
+<Star3>Kevin Bacon</Star3>
+<Star4>Sam Rockwell</Star4>
+<No_of_Votes>103330</No_of_Votes>
+<Gross>18593156</Gross>
+<Genres>
+<Genre>Biography</Genre>
+<Genre>Drama</Genre>
+<Genre>History</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Paprika</Series_Title>
+<Scene>
+    <Scena> slikescene/paprika1.jpg </Scena>
+    <Scena> slikescene/paprika2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>2</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 22:00 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:55 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In the near future, a newly created device called the "DC Mini" allows the user to view people's dreams. The head of the team working on this treatment, Doctor Atsuko Chiba, begins using the machine illegally to help psychiatric patients outside the research facility, by assuming her dream world alter-ego, "Paprika". Chiba's closest allies are Doctor Toratarō Shima, the chief of the department, and Doctor Kōsaku Tokita, the inventor of the DC Mini. </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate>U</Certificate>
+<Link> slikexml/paprika.jpg </Link>
+<Video> https://www.youtube.com/embed/PIUqozzyW2k?si=leyplbOKuMD-zMKh </Video>
+<Runtime>90</Runtime>
+<IMDB_Rating>9.2</IMDB_Rating>
+<Meta_score>81</Meta_score>
+<Director>Satoshi Kon</Director>
+<Star1>Megumi Hayashibara</Star1>
+<Star2>Tôru Emori</Star2>
+<Star3>Katsunosuke Hori</Star3>
+<Star4>Tôru Furuya</Star4>
+<No_of_Votes>71379</No_of_Votes>
+<Gross>881302</Gross>
+<Genres>
+<Genre>Animation</Genre>
+<Genre>Drama</Genre>
+<Genre>Fantasy</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Changeling</Series_Title>
+<Scene>
+    <Scena> slikescene/chan1.webp </Scena>
+    <Scena> slikescene/chan2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj>1</Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:30 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 22:45 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In 1928 Los Angeles, single mother Christine Collins returns home to discover that her 9-year-old son, Walter, is missing. The Reverend Gustav Briegleb publicizes Christine's plight and rails against the LAPD for its incompetence, corruption and the extrajudicial punishment meted out by its "Gun Squad," led by Chief James E. Davis. Several months after Walter's disappearance, the LAPD tells Christine that the boy has been found alive. Believing the positive publicity will negate recent criticism of the department, the LAPD organizes a public reunion. Although "Walter" claims he is Christine's son, she says he is not. Captain J.J. Jones, the head of the LAPD's Juvenile Division, insists the boy is Walter and pressures Christine into taking him home "on a trial basis." </Plot>
+<Released_Year>2008</Released_Year>
+<Certificate>R</Certificate>
+<Link> slikexml/cha.jpg </Link>
+<Video> https://www.youtube.com/embed/IF5hwg4FNEU?si=IVOdMme3qSkLF0Gu </Video>
+<Runtime>141</Runtime>
+<IMDB_Rating>6.8</IMDB_Rating>
+<Meta_score>63</Meta_score>
+<Director>Clint Eastwood</Director>
+<Star1>Angelina Jolie</Star1>
+<Star2>Colm Feore</Star2>
+<Star3>Amy Ryan</Star3>
+<Star4>Gattlin Griffith</Star4>
+<No_of_Votes>239203</No_of_Votes>
+<Gross>35739802</Gross>
+<Genres>
+<Genre>Biography</Genre>
+<Genre>Crime</Genre>
+<Genre>Drama</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Flipped</Series_Title>
+<Scene>
+    <Scena> slikescene/flip1.jpg </Scena>
+    <Scena> slikescene/flip2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 16:25 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 19:20 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In 1957, 7-year-old Bryce Loski moves in next door to Julianna "Juli" Baker. Looking into each other's eyes, Juli knows it's love, but Bryce is unsettled and avoids her.Four years later Juli is still completely enamored, rarely leaving Bryce alone. Desperate to get rid of her, he pretends to date Sherry Stalls, a popular girl she dislikes. Bryce's best friend Garrett tells Sherry the truth, so she dumps him. Embarrassed, Bryce hopes that in upcoming seventh grade Juli will finally meet someone else. </Plot>
+<Released_Year>2010</Released_Year>
+<Certificate>PG</Certificate>
+<Runtime>90</Runtime>
+<Link> slikexml/flip.webp </Link>
+<Video> https://www.youtube.com/embed/q40GxY5n2Dg?si=CtruhS6tTGBMMWh7 </Video>
+<IMDB_Rating>5.0</IMDB_Rating>
+<Meta_score>45</Meta_score>
+<Director>Rob Reiner</Director>
+<Star1>Madeline Carroll</Star1>
+<Star2>Callan McAuliffe</Star2>
+<Star3>Rebecca De Mornay</Star3>
+<Star4>Anthony Edwards</Star4>
+<No_of_Votes>81446</No_of_Votes>
+<Gross>1752214</Gross>
+<Genres>
+<Genre>Comedy</Genre>
+<Genre>Drama</Genre>
+<Genre>Romance</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>The girl who leapt through time</Series_Title>
+<Scene>
+    <Scena> slikescene/toki1.png </Scena>
+    <Scena> slikescene/toki2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:55 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 17:00 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:20 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> At Kuranose High School in Tokyo, Japan, 17-year-old Makoto Konno discovers a message written on a blackboard and ends up inadvertently falling onto a walnut-shaped object. On her way to the Tokyo National Museum to meet with her aunt, Kazuko Yoshiyama, she is ejected into a railroad crossing when the brakes on her bicycle fail and hit by an oncoming train, but finds herself transported back in time when she was riding her bicycle right before the accident. </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate>U</Certificate>
+<Runtime>98</Runtime>
+<Link> slikexml/toki.jpg </Link>
+<Video> https://www.youtube.com/embed/eWnTeKEsDlU?si=98BbIRybfkfB0yhd </Video>
+<IMDB_Rating>8.1</IMDB_Rating>
+<Meta_score>78</Meta_score>
+<Director>Mamoru Hosoda</Director>
+<Star1>Riisa Naka</Star1>
+<Star2>Takuya Ishida</Star2>
+<Star3>Mitsutaka Itakura</Star3>
+<Star4>Ayami Kakiuchi</Star4>
+<No_of_Votes>60368</No_of_Votes>
+<Gross>68034750.87</Gross>
+<Genres>
+<Genre>Animation</Genre>
+<Genre>Adventure</Genre>
+<Genre>Comedy</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Death Note: Desu nôto</Series_Title>
+<Scene>
+    <Scena> slikescene/deth1.jpg </Scena>
+    <Scena> slikescene/deth2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 13:00 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 19:00 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 21:15 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> Light Yagami is an extremely intelligent university student who resents crime and corruption in the world. His life undergoes a drastic change when he discovers a mysterious notebook, known as the "Death Note", lying on the ground. The Death Note's instructions claim that if a human's name is written within it, that person shall die. Light is initially skeptical of the notebook's authenticity, but after experimenting with it, Light realizes that the Death Note is real. </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate/>
+<Link> slikexml/dea.jpg </Link>
+<Video> https://www.youtube.com/embed/mdZQ-_GLzYs?si=uQ7Abd9CO9YHgabu </Video>
+<Runtime>126</Runtime>
+<IMDB_Rating>9.0</IMDB_Rating>
+<Meta_score>78</Meta_score>
+<Director>Shûsuke Kaneko</Director>
+<Star1>Tatsuya Fujiwara</Star1>
+<Star2>Ken'ichi Matsuyama</Star2>
+<Star3>Asaka Seto</Star3>
+<Star4>Yû Kashii</Star4>
+<No_of_Votes>28630</No_of_Votes>
+<Gross>68034750.87</Gross>
+<Genres>
+<Genre>Crime</Genre>
+<Genre>Drama</Genre>
+<Genre>Fantasy</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>This Is England</Series_Title>
+<Scene>
+    <Scena> slikescene/eng1.jpg </Scena>
+    <Scena> slikescene/eng2.avif </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 19:20 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 23:15 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> In July 1983, Shaun is a troubled 12-year-old boy who lives with his widowed mother in an unspecified area in the East Midlands. Shaun is alienated, frequently antagonised at school and around town. On the last day of the school year, Shaun gets into a fight at school with a boy named Harvey after Harvey insults him for wearing wide bell bottoms and making an offensive joke about his father, who was killed in the Falklands War. </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate/>
+<Runtime>101</Runtime>
+<Link> slikexml/eng.jpg </Link>
+<Video> https://www.youtube.com/embed/r4NKuByJcu0?si=1-iNUMU35Pbfm3y7 </Video>
+<IMDB_Rating>6.9</IMDB_Rating>
+<Meta_score>86</Meta_score>
+<Director>Shane Meadows</Director>
+<Star1>Thomas Turgoose</Star1>
+<Star2>Stephen Graham</Star2>
+<Star3>Jo Hartley</Star3>
+<Star4>Andrew Shim</Star4>
+<No_of_Votes>115576</No_of_Votes>
+<Gross>327919</Gross>
+<Genres>
+<Genre>Crime</Genre>
+<Genre>Drama</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Ex Machina</Series_Title>
+<Scene>
+    <Scena> slikescene/ex1.jpg </Scena>
+    <Scena> slikescene/ex2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 12:00 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 20:10 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 18:15 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> Caleb Smith, a programmer at the search engine company Blue Book, wins an office contest for a one-week visit to the luxurious, isolated home of the CEO, Nathan Bateman. Nathan lives there with an unspeaking servant named Kyoko, who, according to Nathan, does not understand English.Nathan reveals that he has built a humanoid robot named Ava with artificial intelligence. She has already passed a simple Turing test, and he wants Caleb to judge whether she is genuinely capable of thought and consciousness as well as whether he can relate to Ava despite knowing she is artificial. </Plot>
+<Released_Year>2014</Released_Year>
+<Certificate>UA</Certificate>
+<Runtime>108</Runtime>
+<Link> slikexml/ex.jpg </Link>
+<Video> https://www.youtube.com/embed/EoQuVnKhxaM?si=447t2hamez2YclmI </Video>
+<IMDB_Rating>7.9</IMDB_Rating>
+<Meta_score>78</Meta_score>
+<Director>Alex Garland</Director>
+<Star1>Alicia Vikander</Star1>
+<Star2>Domhnall Gleeson</Star2>
+<Star3>Oscar Isaac</Star3>
+<Star4>Sonoya Mizuno</Star4>
+<No_of_Votes>474141</No_of_Votes>
+<Gross>25442958</Gross>
+<Genres>
+<Genre>Drama</Genre>
+<Genre>Sci-Fi</Genre>
+<Genre>Thriller</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Efter brylluppet</Series_Title>
+<Scene>
+    <Scena> slikescene/efter1.jpg </Scena>
+    <Scena> slikescene/efter2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 10:45 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 16:10 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> Jacob Petersen manages an Indian orphanage. With a small staff, he works as hard as he can to keep the orphanage afloat and is personally invested in the young charges—particularly Pramod, whom he has cared for since his birth. The orphanage has been in danger of collapse for eight years and faces bankruptcy. A Danish corporation offers a substantial donation to maintain the orphanage if Jacob returns to Denmark, where he grew up, to receive the donation in person. Apparently, the CEO, Jörgen Hansson, wishes to meet Jacob. </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate>R</Certificate>
+<Runtime>120</Runtime>
+<Link> slikexml/efter.jpg </Link>
+<Video> https://www.youtube.com/embed/gZzxmZuOvKI?si=46_FRhJI4tj6jn0i </Video>
+<IMDB_Rating>6.6</IMDB_Rating>
+<Meta_score>78</Meta_score>
+<Director>Susanne Bier</Director>
+<Star1>Mads Mikkelsen</Star1>
+<Star2>Sidse Babett Knudsen</Star2>
+<Star3>Rolf Lassgård</Star3>
+<Star4>Neeral Mulchandani</Star4>
+<No_of_Votes>32001</No_of_Votes>
+<Gross>412544</Gross>
+<Genres>
+<Genre>Drama</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>The Last King of Scotland</Series_Title>
+<Scene>
+    <Scena> slikescene/scot1.webp </Scena>
+    <Scena> slikescene/scot2.avif </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:50 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 17:45 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:35 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 21:10 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> The protagonist is a fictional character named Nicholas Garrigan, a young Scottish doctor who goes to work in Uganda out of a sense of idealism and adventure, arriving on the day of the 1971 Ugandan coup d'état. He relates how he came to be the personal physician and confidant of Amin, the president of Uganda during the Second Republic of Uganda. </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate>R</Certificate>
+<Runtime>123</Runtime>
+<Link> slikexml/king.jpg </Link>
+<Video> https://www.youtube.com/embed/R_W7PC6NnN4?si=-RmO9xm1Bl-p7JFM </Video>
+<IMDB_Rating>4.7</IMDB_Rating>
+<Meta_score>74</Meta_score>
+<Director>Kevin Macdonald</Director>
+<Star1>James McAvoy</Star1>
+<Star2>Forest Whitaker</Star2>
+<Star3>Gillian Anderson</Star3>
+<Star4>Kerry Washington</Star4>
+<No_of_Votes>175355</No_of_Votes>
+<Gross>17605861</Gross>
+<Genres>
+<Genre>Biography</Genre>
+<Genre>Drama</Genre>
+<Genre>History</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Zodiac</Series_Title>
+<Scene>
+    <Scena> slikescene/zodiac1.jpg </Scena>
+    <Scena> slikescene/zodiac2.png </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:00 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 13:45 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> On July 4, 1969, an unknown man attacks Darlene Ferrin and Mike Mageau with a handgun at a lovers' lane in Vallejo, California. Only Mike survives.One month later, the San Francisco Chronicle receives encrypted letters written by the killer calling himself "Zodiac", who threatens to kill a dozen people unless his coded message containing his identity is published. </Plot>
+<Released_Year>2007</Released_Year>
+<Certificate>UA</Certificate>
+<Link> slikexml/zodiac.avif </Link>
+<Video> https://www.youtube.com/embed/yNncHPl1UXg?si=J0DvpW7byoFGutw0 </Video>
+<Runtime>157</Runtime>
+<IMDB_Rating>8.0</IMDB_Rating>
+<Meta_score>78</Meta_score>
+<Director>David Fincher</Director>
+<Star1>Jake Gyllenhaal</Star1>
+<Star2>Robert Downey Jr.</Star2>
+<Star3>Mark Ruffalo</Star3>
+<Star4>Anthony Edwards</Star4>
+<No_of_Votes>466080</No_of_Votes>
+<Gross>33080084</Gross>
+<Genres>
+<Genre>Crime</Genre>
+<Genre>Drama</Genre>
+<Genre>Mystery</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Lucky Number Slevin</Series_Title>
+<Scene>
+    <Scena> slikescene/lucky1.jpg </Scena>
+    <Scena> slikescene/lucky2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 11:40 </Time>
+                <D> 2D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 17:15 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 2 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 20:45 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:10 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 21:30 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+
+</Sale>
+<Plot> Two bookies are separately ambushed and murdered. In a bus terminal, a young man is approached by Goodkat, who tells the story of Max: two decades earlier, Max borrowed money from the mob to bet on a fixed horse race after eavesdropping conversations between mobsters, only for the horse to die mid-race. To set an example to make sure nobody else would try to bet on a fixed race, the mob killed Max, his wife and his son Henry.  </Plot>
+<Released_Year>2006</Released_Year>
+<Certificate>R</Certificate>
+<Runtime>110</Runtime>
+<Link> slikexml/num.jpg </Link>
+<Video> https://www.youtube.com/embed/mGQmSCQrKKQ?si=VTRT5mrd8Pekj-G_ </Video>
+<IMDB_Rating>8.2</IMDB_Rating>
+<Meta_score>53</Meta_score>
+<Director>Paul McGuigan</Director>
+<Star1>Josh Hartnett</Star1>
+<Star2>Ben Kingsley</Star2>
+<Star3>Morgan Freeman</Star3>
+<Star4>Lucy Liu</Star4>
+<No_of_Votes>299524</No_of_Votes>
+<Gross>22494487</Gross>
+<Genres>
+<Genre>Action</Genre>
+<Genre>Crime</Genre>
+<Genre>Drama</Genre>
+</Genres>
+</Movie>
+<Movie>
+<Series_Title>Joyeux Noël</Series_Title>
+<Scene>
+    <Scena> slikescene/geng1.jpg </Scena>
+    <Scena>  slikescene/geng2.jpg </Scena>
+</Scene>
+<Sale>
+    <Sala>
+        <Broj> 1 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 12:10 </Time>
+                <D> 2D </D>
+            </Vreme>
+             <Vreme>
+                <Time> 17:10 </Time>
+                <D> 2D </D>
+            </Vreme>
+             <Vreme>
+                <Time> 22:40 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 2 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 14:35 </Time>
+                <D> 3D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 3 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 16:30 </Time>
+                <D> 3D </D>
+            </Vreme>
+            <Vreme>
+                <Time> 00:00 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+    <Sala>
+        <Broj> 4 </Broj>
+        <Vremena>  
+            <Vreme>
+                <Time> 22:25 </Time>
+                <D> 2D </D>
+            </Vreme>
+        </Vremena>
+    </Sala>
+</Sale>
+<Plot> The film begins with scenes of schoolboys reciting patriotic speeches that both praise their countries and condemn their enemies. In Scotland, two young brothers, Jonathan and William, join up to fight, followed by their priest, Father Palmer, who becomes a chaplain. In Germany, Sprink is interrupted during a performance by a German officer announcing a reserve call up.  </Plot>
+<Released_Year>2005</Released_Year>
+<Certificate>PG-13</Certificate>
+<Runtime>116</Runtime>
+<Link> slikexml/geng.jpg </Link>
+<Video> https://www.youtube.com/embed/etVNDk_l3YY?si=ckQaQNIvPwE9cb9Y </Video>
+<IMDB_Rating>7.0</IMDB_Rating>
+<Meta_score>70</Meta_score>
+<Director>Christian Carion</Director>
+<Star1>Diane Kruger</Star1>
+<Star2>Benno Fürmann</Star2>
+<Star3>Guillaume Canet</Star3>
+<Star4>Natalie Dessay</Star4>
+<No_of_Votes>28003</No_of_Votes>
+<Gross>1054361</Gross>
+<Genres>
+<Genre>Drama</Genre>
+<Genre>History</Genre>
+<Genre>Music</Genre>
+</Genres>
+</Movie>
+</Movies>

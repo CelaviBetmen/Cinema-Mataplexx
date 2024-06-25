@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="scrpt.js" defer></script>
+</head>
+<body id="body">
+    <div id="header">
+        <img src="slike/mataplex.png" id="slika2" alt="" onclick="pocetna()">
+        <div id="paragrafi">
+            <p onclick="pocetna(this)">Filmovi</p>
+            <p onclick="napravizasalu(this)">Sale</p>
+            <p onclick="RacunNapravi(this)">Trenutno Rezervisano</p>
+        </div>
+        <div id="btnlog">
+            <img id="logout" src="slike/shutdown.png">
+            <div id="logoutText" onclick="vratise()">Logout</div>
+        </div>
+    </div>
+    <div id="main">
+        <div id="geng">
+            <div class="signup">
+                <img src="slike/mataplex.png" id="slika1" alt="">
+                <div id="par1">
+                    <label for="input1" style="color: white;font-weight: 500;font-size: 1.6rem;">Korisnicko ime</label>
+                    <input id="input1" type="text" onkeyup="loginuser()" title="Uneti korisnicko ime koje pocinje velikim slovom, sadrzi barem jednu cifru i ima minimum osam karaktera">
+                    <p id="nijeusr">Nije dobro uneto!!!</p>
+                </div>
+                <div id="par2">
+                    <label for="input2" style="color: white;font-weight: 500;font-size: 1.6rem;">Lozinka</label>
+                    <input id="input2" type="password" onkeyup="loginpass()" title="Uneti sifru sa minimum 5 karaktera"> 
+                    <p id="nijepass">Nije dobro uneto!!!</p> 
+                </div>
+                <div class="btnzab">
+                    <button type="button" id="zaboravljena" onclick="zaboravi()">Zaboravljena lozinka?</button>
+                </div>
+                <button type="submit" id="login" onclick="prijavise()">PRIJAVI SE</button>
+                <p id="hid">Akaunt ne postoji</p>
+                <div class="btnreg">
+                    <button type="button" id="registruj" onclick="osvezi()">Registruj se</button>
+                </div>
+            </div>
+            <div id="desno">
+            </div>
+        </div>
+    </div>
+    <div id="strana">
+        <div id="slideshow">
+                <button id="leva" onclick="levastrela()"></button>
+                <img id="slicica" src="slikexml/skyfall.jpg" alt="" style="width: 700px;height: 450px;">
+                <button id="desna" onclick="desnastrela()"></button>
+        </div>
+
+        <div id="galerija">
+            <div id="pretraga">
+                <div id="searchdiv">
+                    <label for="searchbar">Pretrazi</label>
+                    <input type="text" id="searchbar" onkeyup = "popunislike()">
+                </div>
+                <div id="zanrovi">
+                    <label for="zanroviselect">Odaberi zanr</label>
+                    <select name="zanrovi" id="zanroviselect" onchange="popunislike()">
+
+                    </select>
+                </div>
+            </div>
+            <div id="div5"></div>
+            <div id="div6"></div>
+            <div id="div7"></div>
+            <div id="div8"></div>
+            <div id="div9"></div>
+        </div>
+    </div>
+
+    <div id="naklik">
+        <div id="skriven">
+
+        </div>
+    </div>
+
+    <div id="sale">
+        <select name="" id="salaselect" onchange="napravizasalu()">
+            <option value="sala1">Sala1</option>
+            <option value="sala2">Sala2</option>
+            <option value="sala3">Sala3</option>
+            <option value="sala4">Sala4</option>
+        </select>
+        <div id="sala1">
+        </div>
+
+        <div id="sala2">
+        </div>
+
+        <div id="sala3">
+        </div>
+
+        <div id="sala4">
+        </div>
+    </div>
+
+    <div id="rezervisi">
+
+    </div>
+    
+    <div id="racun">
+
+    </div>
+
+    <div id="footer">
+        <p id="parfut">&copy MATAPLEXX SRB DOO</p>
+    </div>
+</body>
+</html>
